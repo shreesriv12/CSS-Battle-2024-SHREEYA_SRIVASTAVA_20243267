@@ -1,6 +1,6 @@
 navbar{
     display: flex;
-    justify-content:first baseline;
+    justify-content:baseline;
 }
 
 h1{
@@ -15,4 +15,47 @@ span{
     width:240px;
     border-radius: 30px;
 
+}
+
+ p{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-top: 0;
+    margin-left: 170px;
+}
+
+.containter{
+    display: flex;
+    justify-content:center;
+}
+#cont1{
+    float: left;
+  background: #433b8d;
+  width: 450px;
+  height: 280px;
+  border-radius: 25px;
+  margin-left:5px;
+}
+
+#cont2{
+  background: #d27511;
+  width: 300px;
+  height: 280px;
+  border-radius: 25px;
+  margin-left:550px;
+}
+#cont3{
+  background: #867aed;
+  width: 300px;
+  height: 280px;
+  border-radius:25px;
+  margin-left:1000px;margin-top: 100px;
+}
+#cont4{
+  background: #db1324;
+  width: 450px;
+  height: 280px;
+  border-radius: 25px;
+  margin-left:1200px;
 }
