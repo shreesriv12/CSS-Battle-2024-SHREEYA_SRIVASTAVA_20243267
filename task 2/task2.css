@@ -1,0 +1,18 @@
+navbar{
+    display: flex;
+    justify-content:first baseline;
+}
+
+h1{
+    color:black;
+}
+span{
+    color:red;
+}
+#marvel{
+    margin-left: 700px;
+    height: 30px;
+    width:240px;
+    border-radius: 30px;
+
+}

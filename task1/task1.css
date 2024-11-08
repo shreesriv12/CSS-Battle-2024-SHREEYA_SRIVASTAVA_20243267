@@ -18,6 +18,12 @@
     margin-left: 60px;
 }
 
+label{
+    border-radius: 30px;
+    border-color: black;
+    border-width: 10px;
+}
+
 #image{
 padding-left: 90px;
 height: 400px;
